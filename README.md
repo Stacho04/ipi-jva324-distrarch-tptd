@@ -58,7 +58,7 @@ Le but des exercices (TD en séance et TP évalués) est de faire évoluer cette
       - mettre à jour java : télécharger la dernière distribution OpenJDK par exemple d'Eclipse (Temurin) à https://www.adoptium.net , puis le sélectionner comme défaut dans Windows > Preferences, puis si nécesssaire le mettre à jour
 - Avoir installé postgresql (ou mysql) : https://www.postgresql.org/download/
 
-## Créer la base de données
+## Pas Besoin Créer la base de données
 
 ### PostgreSQL par image Docker
 
